@@ -1,4 +1,57 @@
 package com.matheusspacifico;
 
 public enum Megabool {
+    // for the true ones
+    TRUE,
+    DOUBLE_TRUE,
+    BIG_IF_TRUE,
+    TRUE_ON_MY_COMPUTER,
+    TRUEISH,
+    TRUE_BUT_IRRELEVANT,
+    HARDCODED_TRUE,
+    MEGATRUE,
+    GASLIT_INTO_TRUE,
+    TRUE_ON_A_GOOD_DAY,
+    SOMETIMES_TRUE,
+    FACTS,
+    I_MEAN_IT_IS_TRUE,
+    KINDA_TRUE,
+    PROBABLY_TRUE_I_COULD_BE_WRONG_THO,
+    TRUE_IN_BRAZIL,
+
+    // for the false ones
+    FALSE,
+    DOUBLE_FALSE,
+    BIG_IF_FALSE,
+    HELL_NAH_NAH,
+    SKILL_ISSUE,
+    FALSEISH,
+    WISH_IT_WAS_TRUE,
+    ITS_FALSE_LITTLE_BRO,
+    BRO_THOUGHT_IT_WAS_TRUE,
+    HARDCODED_FALSE,
+    MEGAFALSE,
+    GASLIT_INTO_FALSE,
+    FALSE_ON_A_GOOD_DAY,
+    SOMETIMES_FALSE,
+    I_MEAN_IT_IS_FALSE,
+    KINDA_FALSE,
+    PROBABLY_FALSE_I_COULD_BE_WRONG_THO,
+
+    // for the uncertain ones
+    MAYBE,
+    PERHAPS,
+    BIG_MAYBE,
+    IT_DEPENDS,
+    ITS_COMPLICATED,
+    IDK_BRO,
+    DONT_CARE,
+
+    // for the quantum state of mind ones
+    BOTH,
+    SCHRODINGER_BOOL,
+    OSCILLATING,
+    YOU_DONT_WANNA_KNOW_THIS_ONE_BUDDY,
+    RAGEQUIT,
+    JUST_PUSH_TO_MAIN_ALREADY,
 }
